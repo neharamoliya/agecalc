@@ -1,0 +1,22 @@
+button{
+  background-color: grey;
+  color: black;
+  border-radius: 10px
+}
+.date{
+ margin-top: 80px;
+}
+.time{
+  display: flex;
+  justify-content: center;
+}
+.time-set{
+  padding: 20px;
+  width:140px;
+  margin: 10px;
+  font-size: 18px;
+  margin-top: 30px;
+  align-items: center;
+  background-color:black;
+  color: white;
+}
